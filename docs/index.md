@@ -2,5 +2,5 @@
 
 ## Contents
 
-1. [Research](./research.md)
+1. [Research](research.md)
 2. Bibliography
